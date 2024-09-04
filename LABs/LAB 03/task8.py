@@ -6,6 +6,7 @@ try:
         try:
             result = val2 / val1
             print(f"Division {val2} by {val1}: {result}")
+            
         except ZeroDivisionError:
             print("ZeroDivisionError Occurred and Handled")
     else:
