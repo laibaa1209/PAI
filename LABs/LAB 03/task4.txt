@@ -1,0 +1,5 @@
+Name: laiba 
+CNIC: 2346796 
+Age: 19 
+Salary: 6789.0
+Phone Number: 0345785356
