@@ -1,0 +1,51 @@
+ProductID,ProductName,Category,Price
+1,Laptop,Electronics,800
+2,Smartphone,Electronics,500
+3,Desk Chair,Furniture,150
+4,Office Desk,Furniture,300
+5,Headphones,Electronics,100
+6,Smartwatch,Electronics,200
+7,Blender,Appliances,80
+8,Coffee Maker,Appliances,90
+9,Television,Electronics,600
+10,Tablet,Electronics,350
+11,Air Conditioner,Appliances,500
+12,Refrigerator,Appliances,1000
+13,Microwave,Appliances,120
+14,Gaming Console,Electronics,400
+15,Monitor,Electronics,250
+16,Bookshelf,Furniture,180
+17,Electric Kettle,Appliances,45
+18,Vacuum Cleaner,Appliances,150
+19,Lamp,Furniture,40
+20,Smart Speaker,Electronics,220
+21,Washing Machine,Appliances,700
+22,Dishwasher,Appliances,650
+23,Printer,Electronics,300
+24,Projector,Electronics,600
+25,External Hard Drive,Electronics,100
+26,Keyboard,Electronics,50
+27,Mouse,Electronics,30
+28,Webcam,Electronics,90
+29,Shredder,Office Supplies,120
+30,Pen Stand,Office Supplies,20
+31,Notebooks,Office Supplies,15
+32,Drawing Tablet,Electronics,150
+33,Air Purifier,Appliances,300
+34,Electric Fan,Appliances,60
+35,Water Cooler,Appliances,250
+36,Smart Light Bulb,Electronics,40
+37,Wireless Charger,Electronics,30
+38,Router,Electronics,120
+39,Security Camera,Electronics,180
+40,Portable Speaker,Electronics,200
+41,Smart Doorbell,Electronics,130
+42,Home Theater System,Electronics,900
+43,Drone,Electronics,700
+44,Fitness Tracker,Electronics,150
+45,3D Printer,Electronics,1000
+46,Power Bank,Electronics,50
+47,Smart Thermostat,Electronics,250
+48,Food Processor,Appliances,200
+49,Toaster,Appliances,50
+50,Hair Dryer,Appliances,75
